@@ -1,0 +1,13 @@
+D:\project\RevitAddinDev\BrigeUtil\bin\Debug\BrigeUtil.dll
+D:\project\RevitAddinDev\BrigeUtil\bin\Debug\BrigeUtil.pdb
+D:\project\RevitAddinDev\BrigeUtil\obj\Debug\BrigeUtil.dll
+D:\project\RevitAddinDev\BrigeUtil\obj\Debug\BrigeUtil.pdb
+D:\project\RevitAddinDev\BrigeUtil\obj\Debug\BrigeUtil.csprojResolveAssemblyReference.cache
+F:\研发项目\市政脚手架\Code\Test\BrigeUtil\obj\Debug\BrigeUtil.csprojResolveAssemblyReference.cache
+F:\研发项目\市政脚手架\Code\Test\BrigeUtil\obj\Debug\BrigeUtil.dll
+F:\研发项目\市政脚手架\Code\Test\BrigeUtil\obj\Debug\BrigeUtil.pdb
+F:\研发项目\市政脚手架\Code\ScaffoldTool.CIVIL\BrigeUtil\bin\Debug\BrigeUtil.dll
+F:\研发项目\市政脚手架\Code\ScaffoldTool.CIVIL\BrigeUtil\bin\Debug\BrigeUtil.pdb
+F:\研发项目\市政脚手架\Code\ScaffoldTool.CIVIL\BrigeUtil\obj\Debug\BrigeUtil.csprojResolveAssemblyReference.cache
+F:\研发项目\市政脚手架\Code\ScaffoldTool.CIVIL\BrigeUtil\obj\Debug\BrigeUtil.dll
+F:\研发项目\市政脚手架\Code\ScaffoldTool.CIVIL\BrigeUtil\obj\Debug\BrigeUtil.pdb

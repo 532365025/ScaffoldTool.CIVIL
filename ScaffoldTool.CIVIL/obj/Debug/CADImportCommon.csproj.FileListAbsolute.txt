@@ -1,0 +1,238 @@
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\CADImportCommon.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\CADImportCommon.pdb
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\CADImport.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\RevitAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\RevitAPIUI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\RevitAPIFoundation.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\RevitDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\PersistenceDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\UtilityAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\APIDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\GraphicsAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\EssentialsDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\GeomUtilAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\FamilyDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\DetailDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\HostObjDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\SiteDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\SculptingDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\StructuralDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\InterfaceAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\RebarDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\MassingDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\AssemblyDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\DPartDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\NumberingDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\StairRampDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\DBManagedServices.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\AdWindows.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\RevitAddInUtility.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\APIInterop.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\UIFramework.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\AddInManager.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\RevitUIAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\DesktopMFCAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\APIUIAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\RevitMFCAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\EssentialsUIAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\DetailUIAPI.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\UIFrameworkServices.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\ManagedMC3.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\RevitAPI.xml
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\RevitAPIUI.xml
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\obj\Debug\CADImportCommon.CADImportBoxForm.resources
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\obj\Debug\CADImportCommon.CADImprotView.resources
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\obj\Debug\CADImportCommon.csproj.GenerateResource.Cache
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\obj\Debug\CADImportCommon.csproj.CoreCompileInputs.cache
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\obj\Debug\CADImportCommon.dll
+C:\Users\liangzongpeng\source\repos\CADImportTest\CADImportCommon\obj\Debug\CADImportCommon.pdb
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\CADImportCommon.pdb
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\CADImport.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\obj\Debug\CADImportCommon.CADForm.resources
+F:\VS\Revit API\CADImportTest\CADImportCommon\obj\Debug\CADImportCommon.csproj.GenerateResource.Cache
+F:\VS\Revit API\CADImportTest\CADImportCommon\obj\Debug\CADImportCommon.csproj.CoreCompileInputs.cache
+F:\VS\Revit API\CADImportTest\CADImportCommon\obj\Debug\CADImportCommon.pdb
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\DevComponents.DotNetBar2.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\obj\Debug\CADImportCommon.ChoiceCreateVerticalMode.resources
+F:\VS\Revit API\CADImportTest\CADImportCommon\obj\Debug\CADImportCommon.ChoiceCADUnit.resources
+F:\VS\Revit API\CADImportTest\CADImportCommon\obj\Debug\CADImportCommon.DesignBridgeInfo.resources
+F:\VS\Revit API\CADImportTest\CADImportCommon\obj\Debug\CADImportCommon.ShowOutline.resources
+F:\VS\Revit API\CADImportTest\CADImportCommon\obj\Debug\CADImportCommon.Properties.Resources.resources
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\RevitAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\RevitAPIUI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\RevitAPIFoundation.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\RevitDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\PersistenceDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\UtilityAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\APIDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\GraphicsAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\ElementGroupDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\EssentialsDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\GeomUtilAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\FamilyDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\DetailDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\CurtainGridFamilyDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\ArrayElemsDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\EnergyAnalysisDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\BuildingSystemsDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\HostObjDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\RoomAreaPlanDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\SiteDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\SculptingDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\StructuralDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\InterfaceAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\InterfaceUtilAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\RebarDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\StructuralAnalysisDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\MassingDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\AssemblyDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\DPartDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\NumberingDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\PointCloudAccessAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\StairRampDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\AnalysisAppsDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\MaterialDBAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\DBManagedServices.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\AdWindows.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\RevitAddInUtility.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\APIInterop.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\UIFramework.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\AddInManager.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\RevitUIAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\BuildingSystemsUIAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\DesktopMFCAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\APIUIAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\RevitMFCAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\EssentialsUIAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\DetailUIAPI.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\UIFrameworkServices.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\ManagedMC3.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\RevitAPI.xml
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\RevitAPIUI.xml
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\cs-CZ\AdWindows.resources.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\de-DE\AdWindows.resources.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\en-GB\AdWindows.resources.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\en-US\AdWindows.resources.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\es-ES\AdWindows.resources.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\fr-FR\AdWindows.resources.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\it-IT\AdWindows.resources.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\ja-JP\AdWindows.resources.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\ko-KR\AdWindows.resources.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\pl-PL\AdWindows.resources.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\pt-BR\AdWindows.resources.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\ru-RU\AdWindows.resources.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\zh-CN\AdWindows.resources.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\zh-TW\AdWindows.resources.dll
+F:\VS\Revit API\CADImportTest\CADImportCommon\bin\Debug\CADImportCommon.exe
+F:\VS\Revit API\CADImportTest\CADImportCommon\obj\Debug\CADImportCommon.exe
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\CADImportCommon.exe
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\CADImportCommon.pdb
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\CADImport.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\DevComponents.DotNetBar2.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\RevitAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\RevitAPIUI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\RevitAPIFoundation.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\RevitDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\PersistenceDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\UtilityAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\APIDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\GraphicsAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\ElementGroupDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\EssentialsDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\GeomUtilAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\FamilyDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\DetailDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\CurtainGridFamilyDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\ArrayElemsDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\EnergyAnalysisDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\BuildingSystemsDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\HostObjDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\RoomAreaPlanDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\SiteDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\SculptingDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\StructuralDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\InterfaceAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\InterfaceUtilAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\RebarDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\StructuralAnalysisDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\MassingDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\AssemblyDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\DPartDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\NumberingDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\PointCloudAccessAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\StairRampDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\AnalysisAppsDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\MaterialDBAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\DBManagedServices.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\AdWindows.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\RevitAddInUtility.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\APIInterop.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\UIFramework.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\AddInManager.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\RevitUIAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\BuildingSystemsUIAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\DesktopMFCAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\APIUIAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\RevitMFCAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\EssentialsUIAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\DetailUIAPI.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\UIFrameworkServices.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\ManagedMC3.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\RevitAPI.xml
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\RevitAPIUI.xml
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\cs-CZ\AdWindows.resources.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\de-DE\AdWindows.resources.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\en-GB\AdWindows.resources.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\en-US\AdWindows.resources.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\es-ES\AdWindows.resources.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\fr-FR\AdWindows.resources.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\it-IT\AdWindows.resources.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\ja-JP\AdWindows.resources.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\ko-KR\AdWindows.resources.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\pl-PL\AdWindows.resources.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\pt-BR\AdWindows.resources.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\ru-RU\AdWindows.resources.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\zh-CN\AdWindows.resources.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\bin\Debug\zh-TW\AdWindows.resources.dll
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\obj\Debug\CADImportCommon.csprojResolveAssemblyReference.cache
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\obj\Debug\CADImportCommon.CADForm.resources
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\obj\Debug\CADImportCommon.ChoiceCADUnit.resources
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\obj\Debug\CADImportCommon.ChoiceCreateVerticalMode.resources
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\obj\Debug\CADImportCommon.DesignBridgeInfo.resources
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\obj\Debug\CADImportCommon.Properties.Resources.resources
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\obj\Debug\CADImportCommon.ShowOutline.resources
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\obj\Debug\CADImportCommon.csproj.GenerateResource.Cache
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\obj\Debug\CADImportCommon.csproj.CoreCompileInputs.cache
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\obj\Debug\CADImportCommon.exe
+F:\VS\Revit API\ScaffoldTool.Civil\CADImportDefind\obj\Debug\CADImportCommon.pdb
